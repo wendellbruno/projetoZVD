@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.7"
+  },
+  "name": "ProjetoZVD2",
+  "description": "dependecias : \r npm i --save express mongoose dotenv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
