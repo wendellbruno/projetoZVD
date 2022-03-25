@@ -22,5 +22,7 @@ npm i nodemon -D
 frontend :
 npm i --save axios bulma
 
+existe dois arquivos .bat programados para executar a aplicação sem a nescessidade de está indo ao terminal manualmente, um no backend e outro no frontend
+
 ![telas](https://user-images.githubusercontent.com/79750052/160145281-9733a167-71a0-4c6a-afe8-305ed4419c21.PNG)
 
