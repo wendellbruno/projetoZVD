@@ -27,9 +27,7 @@ npm i --save axios bulma
 
 existe dois arquivos .bat programados para executar a aplicação sem a nescessidade de está indo ao terminal manualmente, um no backend e outro no frontend
 
-![telas](https://user-images.githubusercontent.com/79750052/160145281-9733a167-71a0-4c6a-afe8-305ed4419c21.PNG)
-
-
+--VIDEO DEMONSTRATIVO--
 
 https://user-images.githubusercontent.com/79750052/161770568-af90d25d-d668-4843-9b5f-330fdb6b1338.mp4
 
